@@ -1,0 +1,15 @@
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\bin\Debug\net6.0\Event1.exe
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\bin\Debug\net6.0\Event1.deps.json
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\bin\Debug\net6.0\Event1.runtimeconfig.json
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\bin\Debug\net6.0\Event1.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\bin\Debug\net6.0\Event1.pdb
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\Event1.csproj.AssemblyReference.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\Event1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\Event1.AssemblyInfoInputs.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\Event1.AssemblyInfo.cs
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\Event1.csproj.CoreCompileInputs.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\Event1.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\refint\Event1.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\Event1.pdb
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\Event1.genruntimeconfig.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Event\obj\Debug\net6.0\ref\Event1.dll

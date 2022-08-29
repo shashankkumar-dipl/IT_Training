@@ -1,0 +1,15 @@
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\bin\Debug\net6.0\Training.exe
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\bin\Debug\net6.0\Training.deps.json
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\bin\Debug\net6.0\Training.runtimeconfig.json
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\bin\Debug\net6.0\Training.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\bin\Debug\net6.0\Training.pdb
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\Training.csproj.AssemblyReference.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\Training.AssemblyInfoInputs.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\Training.AssemblyInfo.cs
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\Training.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\refint\Training.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\Training.pdb
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\Training.genruntimeconfig.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Training\obj\Debug\net6.0\ref\Training.dll

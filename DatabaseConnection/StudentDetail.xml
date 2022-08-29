@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet xmlns="StudentData">
+  <StudentDetails>
+    <Name>Rahul</Name>
+    <DOB>12-12-2006</DOB>
+    <Class>Std-10</Class>
+    <School_x0020_Name>ABC Public School</School_x0020_Name>
+  </StudentDetails>
+  <StudentDetails>
+    <Name>Sourav</Name>
+    <DOB>31-01-2009</DOB>
+    <Class>Std-6</Class>
+    <School_x0020_Name>DEF Public School</School_x0020_Name>
+  </StudentDetails>
+  <StudentDetails>
+    <Name>Mayank</Name>
+    <DOB>08-12-2015</DOB>
+    <Class>Std-4</Class>
+    <School_x0020_Name>GHI Public School</School_x0020_Name>
+  </StudentDetails>
+  <StudentDetails>
+    <Name>Rahul</Name>
+    <DOB>12-12-2006</DOB>
+    <Class>Std-10</Class>
+    <School_x0020_Name>ABC Public School</School_x0020_Name>
+  </StudentDetails>
+  <StudentDetails>
+    <Name>Sourav</Name>
+    <DOB>31-01-2009</DOB>
+    <Class>Std-6</Class>
+    <School_x0020_Name>DEF Public School</School_x0020_Name>
+  </StudentDetails>
+  <StudentDetails>
+    <Name>Mayank</Name>
+    <DOB>08-12-2015</DOB>
+    <Class>Std-4</Class>
+    <School_x0020_Name>GHI Public School</School_x0020_Name>
+  </StudentDetails>
+</NewDataSet>

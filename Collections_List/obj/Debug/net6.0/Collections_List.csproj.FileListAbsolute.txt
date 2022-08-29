@@ -1,0 +1,15 @@
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\bin\Debug\net6.0\Collections_List.exe
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\bin\Debug\net6.0\Collections_List.deps.json
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\bin\Debug\net6.0\Collections_List.runtimeconfig.json
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\bin\Debug\net6.0\Collections_List.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\bin\Debug\net6.0\Collections_List.pdb
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\Collections_List.csproj.AssemblyReference.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\Collections_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\Collections_List.AssemblyInfoInputs.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\Collections_List.AssemblyInfo.cs
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\Collections_List.csproj.CoreCompileInputs.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\Collections_List.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\refint\Collections_List.dll
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\Collections_List.pdb
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\Collections_List.genruntimeconfig.cache
+C:\Users\10084148\OneDrive - Dover Corporation\Desktop\DIPL\Training Docs\Technical\C#\Training\Collections_List\obj\Debug\net6.0\ref\Collections_List.dll
